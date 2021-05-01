@@ -1,0 +1,9 @@
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\bin\Debug\zamanAyarliKapatma.exe.config
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\bin\Debug\zamanAyarliKapatma.exe
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\bin\Debug\zamanAyarliKapatma.pdb
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\zamanAyarliKapatma.csprojResolveAssemblyReference.cache
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\zamanAyarliKapatma.Form1.resources
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\zamanAyarliKapatma.Properties.Resources.resources
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\zamanAyarliKapatma.csproj.GenerateResource.Cache
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\zamanAyarliKapatma.exe
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\zamanAyarliKapatma.pdb

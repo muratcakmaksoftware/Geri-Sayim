@@ -1,0 +1,17 @@
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\geriSayim.Form1.resources
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\geriSayim.csproj.GenerateResource.Cache
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\bin\Debug\geriSayim.exe.config
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\bin\Debug\geriSayim.exe
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\bin\Debug\geriSayim.pdb
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\geriSayim.Properties.Resources.resources
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\geriSayim.exe
+C:\Users\ProgrammerDky\Desktop\zamanAyarliKapatma\zamanAyarliKapatma\obj\Debug\geriSayim.pdb
+C:\Users\ProgrammerDky\Desktop\geriSayim\geriSayim\bin\Debug\geriSayim.exe.config
+C:\Users\ProgrammerDky\Desktop\geriSayim\geriSayim\obj\Debug\geriSayim.exe
+C:\Users\ProgrammerDky\Desktop\geriSayim\geriSayim\obj\Debug\geriSayim.pdb
+C:\Users\ProgrammerDky\Desktop\geriSayim\geriSayim\bin\Debug\geriSayim.exe
+C:\Users\ProgrammerDky\Desktop\geriSayim\geriSayim\obj\Debug\geriSayim.csprojResolveAssemblyReference.cache
+C:\Users\ProgrammerDky\Desktop\geriSayim\geriSayim\obj\Debug\geriSayim.Form1.resources
+C:\Users\ProgrammerDky\Desktop\geriSayim\geriSayim\obj\Debug\geriSayim.Properties.Resources.resources
+C:\Users\ProgrammerDky\Desktop\geriSayim\geriSayim\obj\Debug\geriSayim.csproj.GenerateResource.Cache
+C:\Users\ProgrammerDky\Desktop\geriSayim\geriSayim\bin\Debug\geriSayim.pdb
